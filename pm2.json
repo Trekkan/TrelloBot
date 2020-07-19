@@ -2,8 +2,8 @@
 	"apps": [
 		{
 			"name": "TrelloBot",
-			"script": "npm",
-			"args": "start"
+			"script": "node",
+			"args": "src/bot.js"
 		}
 	]
 }
